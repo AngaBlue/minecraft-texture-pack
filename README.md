@@ -6,7 +6,7 @@
   </a>
 </p>
 
-A 32x resource pack with a series of minor quality of life tweaks.  Designed to be used in conjunction with [Faithful 32x resource pack](https://faithful.team/tag/faithful/).
+A 32x resource pack with a series of minor quality of life tweaks.  Designed to be used in conjunction with [Faithful 32x resource pack](https://www.faithfulpack.net/faithful32x/latest).
 
 ### 🏠 [Homepage](https://github.com/AngaBlue/minecraft-texture-pack)
 
@@ -31,7 +31,7 @@ Clone or download this repository to your minecraft `resourcepacks` folder.  On 
 %appdata%/.minecraft/resourcepacks
 ```
 
-You will also want to install the [Faithful 32x resource pack](https://faithful.team/tag/faithful/) here too.
+You will also want to install the [Faithful 32x resource pack](https://www.faithfulpack.net/faithful32x/latest) here too.
 
 ## Usage
 To use this resource pack and Faithful, navigate to the resource packs section in your Minecraft settings.
