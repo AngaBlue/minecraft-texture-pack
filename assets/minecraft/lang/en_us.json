@@ -132,5 +132,6 @@
 	"merchant.level.3": "§fJourneyman§r",
 	"merchant.level.4": "§fExpert§r",
 	"merchant.level.5": "§fMaster§r",
-	"merchant.trades": "§fTrades§r"
+	"merchant.trades": "§fTrades§r",
+	"gui.advancements": "§fAdvancements§r"
 }
