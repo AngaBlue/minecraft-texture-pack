@@ -1,8 +1,8 @@
-<h1 align="center">Welcome to AngaBlue's Edit: Minecraft Texture Pack 🎮</h1>
+<h1 align="center">AngaBlue's Edit: Minecraft Texture Pack 🎮</h1>
 <p align="center">
   <img alt="Version" src="https://img.shields.io/github/v/release/AngaBlue/minecraft-texture-pack?label=Version" />
   <a href="https://github.com/AngaBlue/minecraft-texture-pack/blob/master/LICENSE" target="_blank">
-    <img alt="License: LGPL--3.0--or--later" src="https://img.shields.io/badge/License-LGPL--3.0--or--later-green.svg" />
+    <img alt="Licence: MIT" src="https://img.shields.io/badge/MIT-green.svg" />
   </a>
 </p>
 
@@ -57,4 +57,4 @@ Give a ⭐️ if this project helped you!
 ## 📝 License
 
 Copyright © 2021 [AngaBlue <contact@anga.blue>](https://github.com/AngaBlue).<br />
-This project is [LGPL--3.0--or--later](https://github.com/AngaBlue/minecraft-texture-pack/blob/master/LICENSE) licensed.
+This project is [MIT](https://github.com/AngaBlue/minecraft-texture-pack/blob/master/LICENSE) licensed.
